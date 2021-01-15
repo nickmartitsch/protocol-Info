@@ -15,6 +15,11 @@
     "date": "2021-01-10"
   },
   {
+    "title": "This is even another example event.",
+    "url": "https://example.com",
+    "date": "2021-01-10"
+  },
+  {
     "title": "This is another example event.",
     "url": "https://example.com",
     "date": "2021-01-15"
