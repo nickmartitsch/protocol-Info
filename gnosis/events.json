@@ -2,26 +2,26 @@
  {
     "title": "This is an example event.",
     "url": "https://example.com",
-    "date": "2021-01-08"
+    "date": "2021-01-07T00:00:00.000Z"
   },
  {
     "title": "This is an example event #2.",
     "url": "https://example.com",
-    "date": "2021-01-08"
+    "date": "2021-01-08T06:00:00.000Z"
   },
   {
     "title": "This is another example event.",
     "url": "https://example.com",
-    "date": "2021-01-10"
+    "date": "2021-01-08T12:00:00.000Z"
   },
   {
     "title": "This is even another example event.",
     "url": "https://example.com",
-    "date": "2021-01-10"
+    "date": "2021-01-08T18:00:00.000Z"
   },
   {
     "title": "This is another example event.",
     "url": "https://example.com",
-    "date": "2021-01-15"
+    "date": "2021-01-10T23:00:00.000Z"
   }
 ]
