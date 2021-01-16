@@ -1,51 +1,51 @@
 [
  {
-    "title": "This is an example event.",
+    "title": "Lorem Ipsum Dolor Sit Amet",
     "url": "https://example.com",
     "date": "2021-01-07T00:00:00.000Z"
   },
  {
-    "title": "This is an example event #2.",
+    "title": "Nullam Consectetur Leo Id",
     "url": "https://example.com",
     "date": "2021-01-08T06:00:00.000Z"
   },
  {
-    "title": "This is an example event #3.",
+    "title": "Praesent Ut Enim Purus",
     "url": "https://example.com",
     "date": "2021-01-08T06:00:00.000Z"
   },
  {
-    "title": "This is an example event #4.",
+    "title": "Quisque Eget Ligula Fermentum",
     "url": "https://example.com",
     "date": "2021-01-08T06:00:00.000Z"
   },
   {
-    "title": "This is another example event.",
+    "title": "Maecenas Accumsan Massa at Augue",
     "url": "https://example.com",
     "date": "2021-01-08T12:00:00.000Z"
   },
   {
-    "title": "This is even another example event.",
+    "title": "Curabitur Scelerisque Maximus Sapien",
     "url": "https://example.com",
     "date": "2021-01-08T18:00:00.000Z"
   },
   {
-    "title": "This is another example event.",
+    "title": "Duis Sagittis Accumsan",
     "url": "https://example.com",
     "date": "2021-01-10T23:00:00.000Z"
   },
   {
-    "title": "This is another example event.",
+    "title": "Sed Mollis Libero Dignissim Consequat",
     "url": "https://example.com",
     "date": "2021-02-02T06:00:00.000Z"
   },
   {
-    "title": "This is another example event.",
+    "title": "Vestibulum in Orci ut est Sollicitudin",
     "url": "https://example.com",
     "date": "2021-02-05T06:00:00.000Z"
   },
   {
-    "title": "This is another example event.",
+    "title": "Phasellus Sem Magna Facilisi",
     "url": "https://example.com",
     "date": "2021-03-06T06:00:00.000Z"
   }
