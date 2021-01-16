@@ -9,6 +9,11 @@
     "url": "https://example.com",
     "date": "2021-01-08T06:00:00.000Z"
   },
+ {
+    "title": "This is an example event #3.",
+    "url": "https://example.com",
+    "date": "2021-01-08T06:00:00.000Z"
+  },
   {
     "title": "This is another example event.",
     "url": "https://example.com",
